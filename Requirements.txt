@@ -1,8 +1,12 @@
-Python 3.x
+flask
+joblib
 pandas
 scikit-learn
-matplotlib
-seaborn
+numpy
+matplotlib        # For charts/plots
+seaborn           # For advanced data visualization
+
+
 Installed the requirements with:
 
 pip install pandas scikit-learn matplotlib seaborn
